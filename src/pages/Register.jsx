@@ -109,11 +109,9 @@ export default function Register() {
       <div className="max-w-md w-full bg-white rounded-2xl shadow-xl overflow-hidden">
         <div className="bg-gradient-to-r from-blue-600 to-indigo-700 py-6 px-8">
           <h2 className="text-3xl font-bold text-white text-center">
-            Create Account
+            Create Your Accounting
           </h2>
-          <p className="text-blue-100 text-center mt-2">
-            Join us to get started
-          </p>
+         
         </div>
 
         <form onSubmit={handleSubmit} className="px-8 py-8">
